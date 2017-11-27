@@ -1,0 +1,14 @@
+Owoce polskie:
+==============
+jab³ko
+gruszka
+wiœnia
+truskawka
+
+Owoce egzotyczne:
+=================
+banan
+pomarañcza
+cytryna
+kiwi
+papaja
