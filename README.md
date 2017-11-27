@@ -1,5 +1,6 @@
-# Projekty testowe
-## *Nauka posługiwania się stemem Git*
+> # Projekty testowe
+> ## *Nauka posługiwania się stemem Git*
+>
 > ### Lorem ipsum
 >
 > Lorem ipsum dolor sit amet, [Oracle site](http://wwww.oracle.com). Nulla viverra quis lorem scelerisque suscipit. Ut sodales aliquam aliquet. Duis dapibus sollicitudin ante, vehicula accumsan lacus suscipit ut. Donec venenatis malesuada nisl eu tempus. Vestibulum lectus tellus, mollis eu lectus sit amet, sodales tristique sapien. Sed vehicula magna ornare, auctor erat in, tempus lectus. Fusce quis nunc nec risus sollicitudin malesuada eu nec justo.
