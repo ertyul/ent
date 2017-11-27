@@ -1,5 +1,5 @@
 # Projekty testowe
-### nauka Git'a
+### Nauka Git'a
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla viverra quis lorem scelerisque suscipit. Ut sodales aliquam aliquet. Duis dapibus sollicitudin ante, vehicula accumsan lacus suscipit ut. Donec venenatis malesuada nisl eu tempus. Vestibulum lectus tellus, mollis eu lectus sit amet, sodales tristique sapien. Sed vehicula magna ornare, auctor erat in, tempus lectus. Fusce quis nunc nec risus sollicitudin malesuada eu nec justo.
 
 > Donec sit amet dolor risus. Quisque dapibus consequat mi vitae bibendum. Morbi eget efficitur nibh, et porttitor magna. Proin a leo nec lorem pretium hendrerit eu commodo felis. Praesent vulputate sem et bibendum ullamcorper. Cras imperdiet tincidunt libero, id luctus elit sagittis eu. Integer vitae faucibus mauris.
