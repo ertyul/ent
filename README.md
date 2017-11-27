@@ -1,5 +1,5 @@
-> # Projekty testowe
-> ## *Nauka posługiwania się stemem Git*
+# Projekty testowe
+## *Nauka posługiwania się stemem Git*
 >
 > ### Lorem ipsum
 >
